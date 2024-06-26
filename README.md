@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on various projects as a front-end developer.<br><br>👯 I'm looking for opportunities to collaborate with other developers.<br><br>🤝 I am looking for help in developing my skills and knowledge.<br><br>🌱 Currently I am studying computer science and computer science at URGEU.<br><br>💬 Feel free to ask me any questions about front-end development or related topics.<br><br>⚡ Interesting fact: I also enjoy rafting and hiking in my free time.
+🔭 I am currently working on various projects as a front-end developer.<br>В настоящее время работаю над различными проектами в качестве фронтенд-разработчика.<br>👯 I'm looking for opportunities to collaborate with other developers.<br><br>🤝 I am looking for help in developing my skills and knowledge.<br><br>🌱 Currently I am studying computer science and computer science at URGEU.<br><br>💬 Feel free to ask me any questions about front-end development or related topics.<br><br>⚡ Interesting fact: I also enjoy rafting and hiking in my free time.
 
 
 ## 🌐 Socials:
